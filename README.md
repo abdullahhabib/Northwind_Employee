@@ -5,13 +5,15 @@ Pada project ini, akan dilakukan analisa pada sebuah database dengan tujuan seba
 1. Faktor apa dari employee yang berpengaruh terhadap total profit perusahaan?
 2. Apa yang harus dilakukan ke employee agar profit perusahaan meningkat?
 
-1.1 RINGKASAN ISI DATABASE DAN HARAPAN OUTPUT DARI ANALISIS
+
+RINGKASAN ISI DATABASE DAN HARAPAN OUTPUT DARI ANALISIS
 
 NORTHWIND_DATABASE merupakan database dari sebuah perusahaan yang bergerak dalam bidang F&B (food and beverage). Database ini berisi hampir semua data operasional perusahaan, meliputi informasi mengenai detail pekerja, penjualan, pelanggan, supplier, sampai dengan partner jasa ekspedisi.
 
 Untuk mengoptimalkan kinerja pekerja dalam penjualan produk, perusahaan ingin mengambil insight dari database yang mereka miliki.
 
-1.2 INFORMASI DATABASE
+
+INFORMASI DATABASE
 sumber database: https://drive.google.com/drive/folders/1fTHrwh_gcLsOFKXHnUzUGEu_APxLoD9i
 
 Database memiliki total 13 tabel yang terhubung baik secara langsung ataupun tidak langsung. Berikut adalah ulasan singkat mengenai isi tabel-tabel tersebut:
